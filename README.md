@@ -21,3 +21,4 @@ This lab highlighted the danger of **Single Points of Failure**. In the future, 
 
 ## 📸 Proof of Work
 ![Network Diagram Placeholder](link-to-your-image-here.png)
+<img width="1907" height="955" alt="terminal" src="https://github.com/user-attachments/assets/26fda20a-0120-4a34-9e91-de722791f6d0" />
