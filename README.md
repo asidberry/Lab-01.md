@@ -19,6 +19,23 @@ To analyze the 2021 Facebook outage from a systems design perspective and identi
 ## 💡 Lessons Learned
 This lab highlighted the danger of **Single Points of Failure**. In the future, I would recommend out-of-band management for critical infrastructure to ensure access during a primary network collapse.
 
+## 🤝 GitHub Network
+### Following (5+)
+
+* [PaulineKabe](https://github.com/PaulineKabe)
+
+Links to an external site.
+* [z-alshehri] (https://github.com/z-alshehri)
+
+Links to an external site.
+* [N-alaiban](https://github.com/N-alaiban)
+
+Links to an external site.
+* [Mary Lou Hall](https://github.com/mocaorsa()
+
+Links to an external site.
+* [ClaireKamobaya](https://github.com/ClaireKamobaya)
+
 ## 📸 Proof of Work
 ![Network Diagram Placeholder](link-to-your-image-here.png)
 <img width="1907" height="955" alt="terminal" src="https://github.com/user-attachments/assets/26fda20a-0120-4a34-9e91-de722791f6d0" />
