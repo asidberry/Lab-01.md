@@ -36,6 +36,15 @@ Links to an external site.
 Links to an external site.
 * [ClaireKamobaya](https://github.com/ClaireKamobaya)
 
+### Forked Repositories (2+)
+1. **[The Network Execution Tool](https://github.com/asidberry/NetExec.git)** by [PennywOrth](https://github.com/Pennyw0rth)
+   - Description: An open-source repository maintained by a community that contributes tools and features for shared use.
+   - Relevance: This matters for the IT-520 course because we are learning how to actively engage with the GitHub community. This page allows collaborators to come together to share tools, features, and resources they have discovered, helping to expand collective knowledge. I find it especially helpful for individuals who are new to GitHub and are just beginning to navigate the platform.
+
+2. **[awesome-cybersecurity-learning-resources](https://github.com/asidberry/awesome-cybersecurity-learning-resources.git)** by [Jassics](https://github.com/jassics/awesome-cybersecurity-learning-resources)
+   - Description: Jassics has compiled a variety of learning resources related to cybersecurity, including books, YouTube videos, free cybersecurity courses, certifications, and many other valuable sources of information.
+   - Relevance: This is relevant to the IT-520 course because new students entering the program, particularly those majoring in cybersecurity, need a stronger understanding of the field. The course emphasizes how infrastructure serves as the core system that supports all operations, while cybersecurity functions to protect that infrastructure from potential threats.
+
 ## 📸 Proof of Work
 ![Network Diagram Placeholder](link-to-your-image-here.png)
 <img width="1907" height="955" alt="terminal" src="https://github.com/user-attachments/assets/26fda20a-0120-4a34-9e91-de722791f6d0" />
